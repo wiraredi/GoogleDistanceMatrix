@@ -1,0 +1,314 @@
+{
+   "destination_addresses" : [
+      "ข.ส.ม.ก.เขตการเดินรถที่ 6 Tambon Suan Luang, Amphoe Krathum Baen, Chang Wat Samut Sakhon 74110, Thailand",
+      "Racha Thewa, Bang Phli, Samut Prakan 10540, Thailand",
+      "2 Thanon At Narong, Khwaeng Phra Khanong, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "11 Soi Huai Pong-Nong Bon, Tambon Nikhom Phatthana, Amphoe Nikhom Phatthana, Chang Wat Rayong 21150, Thailand",
+      "54/6 Thanon Bang Na-Trat Frontage, Tambon Bang Sao Thong, Amphoe Bang Sao Thong, Chang Wat Samut Prakan 10540, Thailand",
+      "Phraeksa, Mueang Samut Prakan District, Samut Prakan 10280, Thailand",
+      "Phai Lom, Bang Krathum District, Phitsanulok 65110, Thailand",
+      "Soi Mu Ban Si Bunrueang, Tambon Bang Muang Mai, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand",
+      "3351, Tambon Hin Mun, Amphoe Bang Len, Chang Wat Nakhon Pathom 73190, Thailand",
+      "Na Mai, Lat Lum Kaeo District, Pathum Thani 12140, Thailand",
+      "Unnamed Road, Tambon Bang Chalong, Amphoe Bang Phli, Chang Wat Samut Prakan 10540, Thailand",
+      "Thanon Phahon Yothin, Tambon Khlong Khlung, Amphoe Khlong Khlung, Chang Wat Kamphaeng Phet 62120, Thailand",
+      "92-94 N Sathon Rd, Khwaeng Silom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+      "1/215 ม.3 Tambon Taphong, Amphoe Mueang Rayong, Chang Wat Rayong 21000, Thailand",
+      "Soi Rojana D, Tambon Khan Ham, Amphoe Uthai, Chang Wat Phra Nakhon Si Ayutthaya 13210, Thailand",
+      "55 Soi Nikhom Utsahakam Bang Chan 3/5, Khwaeng Min Buri, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+      "Mueang Sawankhalok, Sawankhalok District, Sukhothai 64110, Thailand",
+      "Nikhom Phatthana, Nikhom Phatthana District, Rayong, Thailand",
+      "Huai Pong, Mueang Rayong District, Rayong, Thailand",
+      "Wat Bang Kang, Tambon Bang Krang, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+      "1752 Phetchaburi Rd, Khwaeng Bang Kapi, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+      "Soi Mu Ban Maek Mai Lilawadi, Tambon Thapma, Amphoe Mueang Rayong, Chang Wat Rayong 21000, Thailand",
+      "Khan Ham, Uthai District, Phra Nakhon Si Ayutthaya 13210, Thailand",
+      "Soi Mu Ban California Grandi View, Tambon Nong Mai Daeng, Amphoe Mueang Chon Buri, Chang Wat Chon Buri 20000, Thailand",
+      "Unnamed Road, Tambon Phraeksa Mai, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10540, Thailand"
+   ],
+   "origin_addresses" : [
+      "57/26 Soi Ram Intra, Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "55.6 km",
+                  "value" : 55592
+               },
+               "duration" : {
+                  "text" : "1 hour 2 mins",
+                  "value" : 3714
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "33.5 km",
+                  "value" : 33532
+               },
+               "duration" : {
+                  "text" : "35 mins",
+                  "value" : 2084
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "24.6 km",
+                  "value" : 24566
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1747
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "155 km",
+                  "value" : 154782
+               },
+               "duration" : {
+                  "text" : "1 hour 58 mins",
+                  "value" : 7064
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "45.2 km",
+                  "value" : 45185
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "42.7 km",
+                  "value" : 42689
+               },
+               "duration" : {
+                  "text" : "56 mins",
+                  "value" : 3359
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "340 km",
+                  "value" : 340199
+               },
+               "duration" : {
+                  "text" : "4 hours 27 mins",
+                  "value" : 16015
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "32.2 km",
+                  "value" : 32241
+               },
+               "duration" : {
+                  "text" : "39 mins",
+                  "value" : 2344
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "65.8 km",
+                  "value" : 65773
+               },
+               "duration" : {
+                  "text" : "1 hour 9 mins",
+                  "value" : 4151
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "46.5 km",
+                  "value" : 46532
+               },
+               "duration" : {
+                  "text" : "52 mins",
+                  "value" : 3097
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "39.6 km",
+                  "value" : 39621
+               },
+               "duration" : {
+                  "text" : "43 mins",
+                  "value" : 2552
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "295 km",
+                  "value" : 294938
+               },
+               "duration" : {
+                  "text" : "3 hours 45 mins",
+                  "value" : 13514
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "29.4 km",
+                  "value" : 29369
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1922
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "190 km",
+                  "value" : 189979
+               },
+               "duration" : {
+                  "text" : "2 hours 34 mins",
+                  "value" : 9213
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "70.4 km",
+                  "value" : 70388
+               },
+               "duration" : {
+                  "text" : "1 hour 3 mins",
+                  "value" : 3754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "15.1 km",
+                  "value" : 15084
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1344
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "439 km",
+                  "value" : 439278
+               },
+               "duration" : {
+                  "text" : "5 hours 43 mins",
+                  "value" : 20554
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "165 km",
+                  "value" : 164631
+               },
+               "duration" : {
+                  "text" : "2 hours 8 mins",
+                  "value" : 7689
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "167 km",
+                  "value" : 167335
+               },
+               "duration" : {
+                  "text" : "2 hours 17 mins",
+                  "value" : 8221
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "24.2 km",
+                  "value" : 24156
+               },
+               "duration" : {
+                  "text" : "33 mins",
+                  "value" : 2001
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "22.3 km",
+                  "value" : 22309
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1724
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "170 km",
+                  "value" : 169787
+               },
+               "duration" : {
+                  "text" : "2 hours 12 mins",
+                  "value" : 7923
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "69.5 km",
+                  "value" : 69542
+               },
+               "duration" : {
+                  "text" : "59 mins",
+                  "value" : 3530
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "81.0 km",
+                  "value" : 80962
+               },
+               "duration" : {
+                  "text" : "1 hour 9 mins",
+                  "value" : 4159
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "44.3 km",
+                  "value" : 44344
+               },
+               "duration" : {
+                  "text" : "51 mins",
+                  "value" : 3066
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
