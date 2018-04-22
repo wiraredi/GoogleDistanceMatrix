@@ -10,3 +10,15 @@ C:\Users\Lenovo\source\repos\GenerateDistanceMatrix\GenerateDistanceMatrix\obj\D
 C:\Users\Lenovo\source\repos\GenerateDistanceMatrix\GenerateDistanceMatrix\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Lenovo\source\repos\GenerateDistanceMatrix\GenerateDistanceMatrix\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Lenovo\source\repos\GenerateDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.GenerateDistanceMatrix.resources
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\bin\Debug\GenerateDistanceMatrix.exe.config
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\bin\Debug\GenerateDistanceMatrix.exe
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\bin\Debug\GenerateDistanceMatrix.pdb
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.GenerateDistanceMatrix.resources
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.csproj.GenerateResource.Cache
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.exe
+C:\Users\Lenovo\source\repos\GoogleDistanceMatrix\GenerateDistanceMatrix\obj\Debug\GenerateDistanceMatrix.pdb

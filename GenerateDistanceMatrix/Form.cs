@@ -16,6 +16,8 @@ namespace GenerateDistanceMatrix
 {
     public partial class GenerateDistanceMatrix : System.Windows.Forms.Form
     {
+        float[,] distanceMatrix;
+
         public GenerateDistanceMatrix()
         {
             InitializeComponent();
@@ -148,7 +150,6 @@ namespace GenerateDistanceMatrix
         {
             grabProgress.Visible = true;
             int percent = 0;
-            float[,] distanceMatrix;
             int nnodes = int.Parse(totalNodeTxt.Text);
             distanceMatrix = new float[nnodes, nnodes];
             string[] latlang = new string[nnodes];
@@ -247,6 +248,64 @@ namespace GenerateDistanceMatrix
             outputDistanceTxt.Text = outputText;
             grabProgress.Visible = false;
             TabPages.SelectedIndex = 1;
+        }
+
+        private void GenerateSubsetBtn_Click(object sender, EventArgs e)
+        {
+            if(distanceMatrix != null)
+            { 
+                grabSubsetProgress.Visible = true;
+                int percent = 0;
+                int nnodes = int.Parse(totalNodeSubsetTxt.Text);
+
+                string outputText = "";
+                int total = nnodes * nnodes;
+                int count = 0;
+                int from, to;
+                for (int i = 0; i < nnodes; i++)
+                {
+                    from = int.Parse(DataGridNodesSubset.Rows[i].Cells[0].Value.ToString());
+                    for (int j = 0; j < nnodes; j++)
+                    {
+                        to = int.Parse(DataGridNodesSubset.Rows[j].Cells[0].Value.ToString());
+                        outputText += distanceMatrix[from, to] + "\t";
+                        count++;
+                    }
+                    outputText += "\n";
+                    percent = int.Parse(Math.Ceiling((double)count / (double)total * 100).ToString());
+                    grabSubsetProgress.Value = percent;
+
+                }
+
+                outputDistanceSubsetTxt.Text = outputText;
+                grabSubsetProgress.Visible = false;
+                tabControl2.SelectedIndex = 1;
+            }
+            else
+            {
+                MessageBox.Show("Please generate initial data first");
+            }
+        }
+
+        private void inputSubsetBtn_Click(object sender, EventArgs e)
+        {
+            tabControl2.SelectedIndex = 0;
+            outputDistanceSubsetTxt.Text = "";
+            DataGridNodesSubset.Rows.Clear();
+            string filename = inputDataSubsetTxt.Text;
+            string[] text = File.ReadAllLines(filename, Encoding.UTF8);
+            int nnode = 0;
+            foreach (string row in text)
+            {
+                if (nnode != 0)
+                {
+                    string[] data = row.Split(new string[] { "," }, StringSplitOptions.None);
+                    DataGridNodesSubset.Rows.Add(data[0], "", "");
+                }
+                nnode++;
+            }
+
+            totalNodeSubsetTxt.Text = (nnode - 1).ToString();
         }
     }
 }
